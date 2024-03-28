@@ -1,5 +1,3 @@
-![Heatmap Analysis](https://github.com/KajalBhammar/Unemployment-analysis-with-python-/assets/93076200/3dab3f9e-6585-462d-a033-47ecf6a0b7ef)# Unemployment Analysis
-
 Unemployment Analysis is a comprehensive project focused on utilizing advanced data science techniques to analyze historical labor market data and forecast future unemployment rates. By leveraging analytical models, this project aims to uncover insights and provide actionable recommendations.
 
 ## Introduction
